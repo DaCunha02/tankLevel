@@ -7,7 +7,7 @@ Ultrasonic leitura(8,7); // define o nome do sensor(leitura)
 //e onde esta ligado o trig(8) e o echo(7) respectivamente
 
 long distancia;
-int base = 25; //define o valor em cm^2 da base
+int base = 625; //define o valor em cm^2 da base
 float volume;
 float a;
 
